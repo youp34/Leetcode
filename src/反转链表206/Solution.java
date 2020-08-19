@@ -1,0 +1,28 @@
+package 反转链表206;
+
+/**
+ *
+ * @author zhao peng yu
+ * @version 1.0
+ * @date 2020/8/18 10:38
+ * 双指针方法
+ */
+class ListNode {
+    int val;
+    ListNode next;
+    ListNode(int x) { val = x; }
+}
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        if (head == null || head.next == null) return head;
+        ListNode p1 = null;
+        ListNode p2 = head;
+        while (p2 != null){
+            ListNode temp = p2.next;
+            p2.next = p1;
+            p1 = p2;
+            p2 = temp;
+        }
+        return p1;
+    }
+}
