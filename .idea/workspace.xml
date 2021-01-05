@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e3c9366e-b49d-4aef-b773-f88fa8460627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/两数相加II445/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/两两交换链表中的节点24/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/两两交换链表中的节点24/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/两数相加II445/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/两数相加II445/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/删除排序链表中的重复元素83/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/删除排序链表中的重复元素83/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/删除链表的倒数第N个节点19/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/删除链表的倒数第N个节点19/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/反转链表206/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/反转链表206/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/合并两个有序链表21/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/合并两个有序链表21/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/回文链表234/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/回文链表234/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/数字旋转方阵/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/相交链表160/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/相交链表160/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/两数之和II输入有序数组167/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/回文链表234/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/寻找峰值162/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数字旋转方阵/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/最大子序和53/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/最大子序和53/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/最大子序和53/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/最大子序和53/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,13 +41,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/两数相加II445/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/寻找峰值162/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="39" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="229">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -47,7 +70,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/两数之和II输入有序数组167/demo.java" />
-        <option value="$PROJECT_DIR$/src/两数之和II输入有序数组167/Demo.java" />
         <option value="$PROJECT_DIR$/src/平方数之和633/Demo.java" />
         <option value="$PROJECT_DIR$/src/反转字符串中的元音字母345/Demo.java" />
         <option value="$PROJECT_DIR$/src/验证回文字符串Ⅱ680/Solution.java" />
@@ -70,9 +92,7 @@
         <option value="$PROJECT_DIR$/src/种花问题605/Solution.java" />
         <option value="$PROJECT_DIR$/src/判断子序列392/Solution.java" />
         <option value="$PROJECT_DIR$/src/非递减数列665/Solution.java" />
-        <option value="$PROJECT_DIR$/src/最大子序和53/Solution.java" />
         <option value="$PROJECT_DIR$/src/划分字母区间763/Solution.java" />
-        <option value="$PROJECT_DIR$/src/x的平方根69/Solution.java" />
         <option value="$PROJECT_DIR$/src/寻找比目标字母大的最小字母744/Solution.java" />
         <option value="$PROJECT_DIR$/src/有序数组中的单一元素540/Solution.java" />
         <option value="$PROJECT_DIR$/src/有序数组中的单一元素540/Solution1.java" />
@@ -88,14 +108,23 @@
         <option value="$PROJECT_DIR$/src/删除链表的倒数第N个节点19/Solution.java" />
         <option value="$PROJECT_DIR$/src/两两交换链表中的节点24/Solution.java" />
         <option value="$PROJECT_DIR$/src/两数相加II445/Solution.java" />
+        <option value="$PROJECT_DIR$/src/回文链表234/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Demo.java" />
+        <option value="$PROJECT_DIR$/src/数字旋转方阵/Solution.java" />
+        <option value="$PROJECT_DIR$/src/最大子序和53/Solution.java" />
+        <option value="$PROJECT_DIR$/src/x的平方根69/Solution.java" />
+        <option value="$PROJECT_DIR$/src/两数之和II输入有序数组167/Demo.java" />
+        <option value="$PROJECT_DIR$/src/两数之和II输入有序数组167/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/平方数之和633/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/寻找峰值162/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1937" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -103,6 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,21 +145,33 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="多数元素169" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="验证回文字符串Ⅱ680" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598147237538" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609850694764" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,13 +185,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="多数元素169.Solution" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="两数之和II输入有序数组167.Demo2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="多数元素169.*" />
+          <option name="PATTERN" value="两数之和II输入有序数组167.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最大子序和53.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="最大子序和53.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,24 +220,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="有序数组中的单一元素540.Solution" />
+      <option name="MAIN_CLASS_NAME" value="数字旋转方阵.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="有序数组中的单一元素540.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="在排序数组中查找元素的第一个和最后一个位置34.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="在排序数组中查找元素的第一个和最后一个位置34.*" />
+          <option name="PATTERN" value="数字旋转方阵.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,24 +233,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="寻找旋转排序数组中的最小值153.Solution" />
+      <option name="MAIN_CLASS_NAME" value="寻找峰值162.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="寻找旋转排序数组中的最小值153.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="有序数组中的单一元素540.Solution1" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="有序数组中的单一元素540.*" />
+          <option name="PATTERN" value="寻找峰值162.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,13 +247,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -246,27 +285,40 @@
       <workItem from="1597707868210" duration="14200000" />
       <workItem from="1597840553770" duration="12224000" />
       <workItem from="1598079149579" duration="594000" />
-      <workItem from="1598136016528" duration="7958000" />
+      <workItem from="1598136016528" duration="13790000" />
+      <workItem from="1598662427264" duration="4004000" />
+      <workItem from="1599463832534" duration="3107000" />
+      <workItem from="1601345988860" duration="1632000" />
+      <workItem from="1601350085830" duration="55000" />
+      <workItem from="1601423984265" duration="4411000" />
+      <workItem from="1601944041275" duration="2105000" />
+      <workItem from="1601955980566" duration="919000" />
+      <workItem from="1601956944517" duration="8000" />
+      <workItem from="1601979924634" duration="294000" />
+      <workItem from="1602329937093" duration="2610000" />
+      <workItem from="1603611579333" duration="3285000" />
+      <workItem from="1609828622955" duration="10475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156609000" />
+    <option name="totallyTimeSpent" value="195346000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2613941" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4981685" visible="true" weight="0.23123324" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.50183153" side_tool="true" visible="true" weight="0.23123324" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23796034" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23743017" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -274,70 +326,33 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32673267" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="13" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32978722" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="0" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="1" />
+      <window_info anchor="right" id="Alibaba Log Console" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-704">
-          <caret line="124" column="6" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/验证回文字符串Ⅱ680/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/环形链表141/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/环形链表II142/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6506">
-          <caret line="522" lean-forward="true" selection-start-line="522" selection-end-line="522" />
-          <folding>
-            <element signature="e#19228#19229#0" expanded="true" />
-            <element signature="e#19311#19312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="586" column="17" selection-start-line="586" selection-start-column="13" selection-end-line="586" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -373,34 +388,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/反转字符串中的元音字母345/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/两数之和II输入有序数组167/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/合并两个有序数组88/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/平方数之和633/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -521,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/最大子序和53/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/划分字母区间763/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -542,13 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/x的平方根69/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -641,13 +618,121 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.java" />
     <entry file="file://$PROJECT_DIR$/src/两数相加II445/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="39" selection-end-column="9" />
+        <state relative-caret-position="22">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回文链表234/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数字旋转方阵/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/最大子序和53.Solution">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>最大子序和53.Solution</OriginalElement>
+          <nodes>
+            <node x="" y="">最大子序和53.Solution</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.6000000000000005" x="38.0" y="15.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/最大子序和53/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/x的平方根69/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/两数之和II输入有序数组167/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/两数之和II输入有序数组167/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/平方数之和633/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/平方数之和633/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/反转字符串中的元音字母345/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/验证回文字符串Ⅱ680/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/寻找峰值162/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
