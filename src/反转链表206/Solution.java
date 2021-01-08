@@ -25,4 +25,16 @@ class Solution {
         }
         return p1;
     }
+    // 二刷
+    public ListNode reverseList1(ListNode head) {
+        ListNode r = null;
+        ListNode l = null;
+        while (head != null){
+            l = head.next;
+            head.next = r;
+            r = head;
+            head = l;
+        }
+        return l;
+    }
 }
