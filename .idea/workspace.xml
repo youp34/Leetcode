@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3c9366e-b49d-4aef-b773-f88fa8460627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/找到K个最接近的元素658/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/牛客LRU缓存设计/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/牛客两数之和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/牛客二叉树的遍历/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/牛客层序遍历二叉树/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/反转链表206/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/反转链表206/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/反转链表206/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/反转链表206/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +20,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/牛客LRU缓存设计/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/合并两个有序链表21/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state relative-caret-position="575">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,10 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/两数之和II输入有序数组167/demo.java" />
-        <option value="$PROJECT_DIR$/src/平方数之和633/Demo.java" />
-        <option value="$PROJECT_DIR$/src/反转字符串中的元音字母345/Demo.java" />
-        <option value="$PROJECT_DIR$/src/验证回文字符串Ⅱ680/Solution.java" />
         <option value="$PROJECT_DIR$/src/合并两个有序数组88/Solution.java" />
         <option value="$PROJECT_DIR$/src/环形链表141/Solution.java" />
         <option value="$PROJECT_DIR$/src/环形链表II142/Solution.java" />
@@ -100,14 +98,18 @@
         <option value="$PROJECT_DIR$/src/找到K个最接近的元素658/Solution.java" />
         <option value="$PROJECT_DIR$/src/反转链表206/GetLeastNumbers_Solution.java" />
         <option value="$PROJECT_DIR$/src/牛客LRU缓存设计/Solution.java" />
+        <option value="$PROJECT_DIR$/src/牛客二叉树的遍历/Solution.java" />
+        <option value="$PROJECT_DIR$/src/牛客两数之和/Solution.java" />
+        <option value="$PROJECT_DIR$/src/牛客层序遍历二叉树/solution.java" />
+        <option value="$PROJECT_DIR$/src/牛客层序遍历二叉树/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1060" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1487" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,7 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,19 +134,26 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="验证回文字符串Ⅱ680" type="462c0819:PsiDirectoryNode" />
+              <item name="合并两个有序链表21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="合并两个有序链表21" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610072747632" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610331701105" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -162,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="两数之和II输入有序数组167.Demo2" />
       <module name="leetcode" />
@@ -202,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最大子序和53.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="牛客两数之和.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="最大子序和53.*" />
+          <option name="PATTERN" value="牛客两数之和.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.GetLeastNumbers_Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -284,18 +293,20 @@
       <workItem from="1609893568466" duration="5609000" />
       <workItem from="1609911468804" duration="3107000" />
       <workItem from="1609985677204" duration="2389000" />
-      <workItem from="1610067473052" duration="5228000" />
+      <workItem from="1610067473052" duration="9132000" />
+      <workItem from="1610160026285" duration="7970000" />
+      <workItem from="1610325369140" duration="5843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213137000" />
+    <option name="totallyTimeSpent" value="230854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4981685" visible="true" weight="0.24463807" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981685" visible="true" weight="0.25134048" />
       <window_info id="Structure" order="1" sideWeight="0.50183153" side_tool="true" weight="0.23123324" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -340,44 +351,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/前K个高频单词692/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/合并两个有序数组88/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/通过删除字母匹配到字典里最长单词524/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组中的第K个最大元素215/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/分发饼干455/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/颜色分类75/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
@@ -532,16 +505,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/反转链表206/Solution1.java" />
-    <entry file="file://$PROJECT_DIR$/src/合并两个有序链表21/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/删除排序链表中的重复元素83/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -564,16 +527,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/两数相加II445/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/回文链表234/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
@@ -708,10 +661,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="3265" column="47" selection-start-line="3265" selection-start-column="47" selection-end-line="3265" selection-end-column="47" />
+          <folding>
+            <element signature="e#129105#129106#0" expanded="true" />
+            <element signature="e#129159#129160#0" expanded="true" />
+            <element signature="e#129243#129244#0" expanded="true" />
+            <element signature="e#129300#129301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/牛客LRU缓存设计/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state relative-caret-position="850">
+          <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="1202" column="19" selection-start-line="1202" selection-start-column="19" selection-end-line="1202" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/两数相加II445/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客两数之和/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客二叉树的遍历/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛客层序遍历二叉树/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/合并两个有序链表21/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
