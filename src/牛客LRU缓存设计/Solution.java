@@ -7,6 +7,8 @@ import java.util.*;
  * @version 1.0
  * @date 2021/1/8 8:59
  * [[1,1,1],[1,2,2],[1,3,2],[2,1],[1,4,4],[2,2]],3
+ *
+ * 程序有一些小问题 怀疑牛客的测试数据不足
  */
 public class Solution {
     public int[] LRU (int[][] operators, int k) {
