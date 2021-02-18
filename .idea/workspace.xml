@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3c9366e-b49d-4aef-b773-f88fa8460627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LRU缓存机制146/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LRU缓存机制146/LRUCache1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/买卖股票的最佳时机III123/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛客LRU缓存设计/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛客LRU缓存设计/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,16 +22,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LRU缓存机制146/LRUCache1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="345">
+              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LRU缓存机制146/LRUCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="55" column="26" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="55" selection-end-column="26" />
+            <state relative-caret-position="1265">
+              <caret line="55" column="26" selection-start-line="53" selection-start-column="8" selection-end-line="55" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -139,6 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,14 +153,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613567918869" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613568124796" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cloud-Lab项目/cloud-lab-2.0.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -318,12 +308,13 @@
       <workItem from="1611373763249" duration="360000" />
       <workItem from="1612755133860" duration="655000" />
       <workItem from="1613542764211" duration="5557000" />
-      <workItem from="1613556446896" duration="9751000" />
+      <workItem from="1613556446896" duration="9972000" />
+      <workItem from="1613606482087" duration="559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="280310000" />
+    <option name="totallyTimeSpent" value="281090000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,7 +328,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979424" visible="true" weight="0.25536194" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979424" visible="true" weight="0.25871313" />
       <window_info id="Structure" order="1" sideWeight="0.50183153" side_tool="true" weight="0.23123324" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -789,13 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LRU缓存机制146/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="55" column="26" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="55" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -805,17 +789,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LRU缓存机制146/LRUCache1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="345">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LRU缓存机制146/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" column="26" selection-start-line="53" selection-start-column="8" selection-end-line="55" selection-end-column="26" />
         </state>
       </provider>
     </entry>
