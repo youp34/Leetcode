@@ -6,6 +6,8 @@ package 排序算法五种;
  * @date 2021/2/20 14:26
  *
  * 快速排序
+ * 不稳定
+ * O(nlog(n))
  */
 public class FastSort {
 
