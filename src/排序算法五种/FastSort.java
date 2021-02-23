@@ -18,12 +18,14 @@ public class FastSort {
         int left = l;
         int right = r;
 
+        // 先把第一个比较值假设从数组中拿出
         int temp = list[l];
 
         while (l<r){
             while (temp <list[r] && l<r){
                 r--;
             }
+            //占用比较值位置
             if (l<r){
                 list[l] = list[r];
             }
