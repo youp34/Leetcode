@@ -1,5 +1,6 @@
 package LRU缓存机制146;
 
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 

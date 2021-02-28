@@ -8,6 +8,8 @@ import java.util.Arrays;
  * @date 2021/2/23 15:23
  *
  * 归并排序
+ * w稳定
+ * O(nlogn)
  */
 public class MergeSort {
     public static void main(String []args){
