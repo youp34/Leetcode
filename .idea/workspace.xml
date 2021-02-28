@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3c9366e-b49d-4aef-b773-f88fa8460627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JUC同步器/CountDownLatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JUC同步器/CyclicBarrierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JUC同步器/SemaphoreDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/无重复字符的最长子串3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/序列化二叉树剑指offer37/Codec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/排序算法五种/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/排序算法五种/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LRU缓存机制146/LRUCache1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LRU缓存机制146/LRUCache1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/排序算法五种/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/排序算法五种/MergeSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +19,20 @@
     <favorites_list name="leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/序列化二叉树剑指offer37/Codec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/删除排序链表中的重复元素83/Solution.java" />
-        <option value="$PROJECT_DIR$/src/删除链表的倒数第N个节点19/Solution.java" />
         <option value="$PROJECT_DIR$/src/两两交换链表中的节点24/Solution.java" />
         <option value="$PROJECT_DIR$/src/两数相加II445/Solution.java" />
         <option value="$PROJECT_DIR$/src/回文链表234/Solution.java" />
@@ -102,6 +107,8 @@
         <option value="$PROJECT_DIR$/src/JUC同步器/SemaphoreDemo.java" />
         <option value="$PROJECT_DIR$/src/LRU缓存机制146/LRUCache1.java" />
         <option value="$PROJECT_DIR$/src/无重复字符的最长子串3/Solution.java" />
+        <option value="$PROJECT_DIR$/src/序列化二叉树剑指offer37/Solution.java" />
+        <option value="$PROJECT_DIR$/src/序列化二叉树剑指offer37/Codec.java" />
       </list>
     </option>
   </component>
@@ -129,18 +136,24 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="序列化二叉树剑指offer37" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614316855680" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614515157144" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cloud-Lab项目/cloud-lab-2.0.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -301,11 +314,12 @@
       <workItem from="1614179108105" duration="1346000" />
       <workItem from="1614214472056" duration="10563000" />
       <workItem from="1614298441468" duration="8474000" />
+      <workItem from="1614509017421" duration="5664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="340630000" />
+    <option name="totallyTimeSpent" value="346294000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,8 +332,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979424" visible="true" weight="0.2622401" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979424" visible="true" weight="0.26626426" />
       <window_info id="Structure" order="1" sideWeight="0.50183153" side_tool="true" weight="0.23123324" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,7 +363,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="right" id="Palette" order="5" />
-      <window_info active="true" anchor="right" id="Ant Build" order="6" visible="true" weight="0.24949698" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24949698" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Maven" order="9" />
@@ -402,13 +417,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/牛客删除链表倒数第n个节点/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/买卖股票的最佳时机II122/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -787,6 +795,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/序列化二叉树剑指offer37/Codec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
