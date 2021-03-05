@@ -37,4 +37,15 @@ class Solution {
         }
         return l;
     }
+    //递归
+    public ListNode reverseList2(ListNode node) {
+        if(node == null || node.next == null){
+            return node;
+        }
+        ListNode root = reverseList2(node.next);
+        node.next.next = node;
+        node.next = null;
+        return root;
+
+    }
 }
