@@ -20,7 +20,7 @@ public class FastSort {
 
         // 先把第一个比较值假设从数组中拿出
         int temp = list[l];
-
+        //两个指针向内移动
         while (l<r){
             while (temp <list[r] && l<r){
                 r--;
