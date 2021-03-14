@@ -3,9 +3,13 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/相同的树100/Solution.java" line="27" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e3c9366e-b49d-4aef-b773-f88fa8460627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/全排列46/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/复原IP地址93/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/相同的树100/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,14 +24,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/全排列46/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="437">
+              <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/复原IP地址93/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/相同的树100/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -58,9 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/牛客二叉树的遍历/Solution.java" />
-        <option value="$PROJECT_DIR$/src/牛客层序遍历二叉树/solution.java" />
-        <option value="$PROJECT_DIR$/src/牛客层序遍历二叉树/Solution.java" />
         <option value="$PROJECT_DIR$/src/牛客合并有序链表/Solution.java" />
         <option value="$PROJECT_DIR$/src/牛客寻找第K大/Solution.java" />
         <option value="$PROJECT_DIR$/src/Aaa.java" />
@@ -109,14 +128,17 @@
         <option value="$PROJECT_DIR$/src/从上到下打印二叉树剑指Offer32I/Solution.java" />
         <option value="$PROJECT_DIR$/src/二叉树的最近公共祖先剑指Offer68II/Solution.java" />
         <option value="$PROJECT_DIR$/src/全排列46/Solution.java" />
+        <option value="$PROJECT_DIR$/src/复原IP地址93/solution.java" />
+        <option value="$PROJECT_DIR$/src/相同的树100/Solution.java" />
+        <option value="$PROJECT_DIR$/src/复原IP地址93/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="25" />
-    <option name="y" value="-25" />
-    <option name="width" value="1940" />
-    <option name="height" value="1060" />
+    <option name="x" value="-9" />
+    <option name="y" value="2" />
+    <option name="width" value="1934" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,6 +159,19 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="牛客二叉树的遍历" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="牛客二叉树的遍历" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -147,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615633241314" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615699606650" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cloud-Lab项目/cloud-lab-2.0.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -166,20 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
-    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUC同步器.SemaphoreDemo" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JUC同步器.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="无重复字符的最长子串3.Solution" />
       <module name="leetcode" />
@@ -199,6 +221,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="全排列46.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="复原IP地址93.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="复原IP地址93.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.aaa" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.SemaphoreDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -309,12 +344,12 @@
       <workItem from="1615285627173" duration="1180000" />
       <workItem from="1615355459776" duration="3507000" />
       <workItem from="1615467334628" duration="10671000" />
-      <workItem from="1615594622502" duration="5749000" />
+      <workItem from="1615594622502" duration="15425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="387823000" />
+    <option name="totallyTimeSpent" value="397499000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,7 +364,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49625468" visible="true" weight="0.23205902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49625468" visible="true" weight="0.23205902" />
       <window_info id="Structure" order="1" sideWeight="0.5037453" side_tool="true" weight="0.2702884" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,7 +374,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41899443" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23463687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49022347" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,20 +447,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/根据字符出现频率排序451/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/根据字符出现频率排序451/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/排序算法五种/BubbingSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -444,16 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/牛客二叉树的遍历/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,13 +791,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/全排列46/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/牛客二叉树的遍历/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="207">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/相同的树100/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/全排列46/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/复原IP地址93/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>
