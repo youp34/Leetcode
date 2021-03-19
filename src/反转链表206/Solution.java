@@ -5,7 +5,7 @@ package 反转链表206;
  * @author zhao peng yu
  * @version 1.0
  * @date 2020/8/18 10:38
- * 双指针方法
+ * 双指针方法 + 递归
  */
 class ListNode {
     int val;
@@ -46,6 +46,5 @@ class Solution {
         node.next.next = node;
         node.next = null;
         return root;
-
     }
 }

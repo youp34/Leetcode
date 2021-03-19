@@ -3,7 +3,6 @@ package 相交链表160;
 /**
  * 一个链表的爱情故事 哈哈哈  你细品！！！
  */
-//Definition for singly-linked list.
 class ListNode {
     int val;
     ListNode next;
