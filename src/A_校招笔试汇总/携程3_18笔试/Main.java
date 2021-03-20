@@ -1,17 +1,11 @@
-package 携程3_18笔试; /**
+package A_校招笔试汇总.携程3_18笔试; /**
  * @author zhao peng yu
  * @version 1.0
  * @date 2021/3/18 19:23
  *
- *
- *
  * AC 67%
  */
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Main {
 

@@ -1,6 +1,5 @@
 package 判断子序列392;
 
-import java.net.Socket;
 
 public class Solution {
     public boolean isSubsequence(String s, String t) {

@@ -1,4 +1,4 @@
-package A_OJ笔试题.oj平台demo;
+package A_校招笔试汇总.A_OJ笔试题.oj平台demo;
 
 /**
  * @author zhao peng yu
@@ -16,7 +16,6 @@ package A_OJ笔试题.oj平台demo;
 // 引入包
 
 import java.util.*;
-import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
