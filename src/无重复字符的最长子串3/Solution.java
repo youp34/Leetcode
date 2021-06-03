@@ -14,7 +14,7 @@ public class Solution {
             return chars.length;
         }
         int res = 1;
-        HashMap map = new HashMap<String, Integer>();
+        HashMap map = new HashMap<Character, Integer>();
         int star = 0;
         int end  = 0;
         for (end = 0;end<chars.length;end++){
@@ -26,10 +26,27 @@ public class Solution {
         }
         return res;
     }
+    public int lengthOfLongestSubstring1(String s) {
+        if(s.length() <= 1){
+            return s.length();
+        }
+        int max = 1;
+        int start = 0;
+        HashMap<Character,Integer> map = new HashMap<>();
+        char[] chars = s.toCharArray();
+        for(int i = 0;i<chars.length;i++){
+            if(map.containsKey(chars[i])){
+                start = Math.max(start,map.get(chars[i]) +1);
+            }
+            max = Math.max(max,i-start+1);
+            map.put(chars[i],i);
+        }
+        return max;
+    }
 
     public static void main(String[] args) {
-        String a = "abcabcbb";
+        String a = "dvdf";
         Solution solution = new Solution();
-        System.out.println(solution.lengthOfLongestSubstring(a));
+        System.out.println(solution.lengthOfLongestSubstring1(a));
     }
 }

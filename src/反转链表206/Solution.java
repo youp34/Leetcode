@@ -35,7 +35,7 @@ class Solution {
             r = head;
             head = l;
         }
-        return l;
+        return r;
     }
     //递归
     public ListNode reverseList2(ListNode node) {
