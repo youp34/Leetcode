@@ -10,6 +10,7 @@ public class Solution {
         if(s.length < 2){
             return ;
         }
+
         int len = s.length;
         int l = 0;
         int r = len-1;
